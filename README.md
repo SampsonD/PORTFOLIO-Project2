@@ -62,7 +62,13 @@ Below you will find a bit about my past work experience as well as what I have b
 <li>I have rcently taken up film photography and find that I have a reason to explore and get out more
 
 
-<img src= "https://beyonce.fandom.com/wiki/Beyonc%C3%A9?file=Beyonc%C3%A9.jpg" alt= "Desk and Office Image"> 
+<img src= "https://stock.adobe.com/search?k=office" alt= "Desk and Office Image" width="100"> <br>
+
+<img src= "https://stock.adobe.com/search?k=camera" alt= "Camera" width="100"> <br>
+
+<img src= "https://stock.adobe.com/search?k=beach" alt= "Beach" width="100"> <br>
+<img src= "https://mtek3d.com/wp-content/uploads/2018/01/image-placeholder-500x500.jpg" alt= "Placeholder" width="100"> <br>
+<img src= "https://mtek3d.com/wp-content/uploads/2018/01/image-placeholder-500x500.jpg" alt= "Avatar" width="100"> 
 
 
 </body>
