@@ -20,6 +20,11 @@ a:link {color:yellow;}
 <li><a href="personal">Personal-Interests</a></li>
 </nav>
 
+.element {
+    background-image: src='Daniels-MacBook-Pro/Desktop/PROJECT-2/OFFICE.jpg';
+    background-size: 'cover;' 
+    background-position: 'center';}
+
 </style>
 
 </head>
@@ -28,6 +33,7 @@ PORTFOLIO: Daniel Sampson
 
 
 <body>
+
 <h2 id="contact">Contact Details</h2>
 <ul>
 <li>747-323-6237
@@ -53,7 +59,11 @@ Below you will find a bit about my past work experience as well as what I have b
 <ol> 
 <li>Fashion has always been a love of mine with Chanel being my favorite brand
 <li>My Shiba Inu Cheyenne is my fur baby and loves to get all my attention
-<li>I have rcently taken up film photography and find that I have a reason to explore and get out more</section3>
+<li>I have rcently taken up film photography and find that I have a reason to explore and get out more
+
+
+<img src= "https://beyonce.fandom.com/wiki/Beyonc%C3%A9?file=Beyonc%C3%A9.jpg" alt= "Desk and Office Image"> 
+
 
 </body>
 
